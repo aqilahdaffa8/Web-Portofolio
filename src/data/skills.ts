@@ -1,7 +1,7 @@
 import type { SkillGroup, Skills } from "@/types";
 
 export const SKILLS: Skills = {
-  programming: ["Dart", "Kotlin", "Blade","TypeScript", "JavaScript", "PHP", "Java", "C++", "Python"],
+  programming: ["Dart", "Kotlin", "Blade","TypeScript", "JavaScript", "PHP"],
   framework: ["Flutter", "Laravel", "Next.js", "React", "Tailwind CSS", "Firebase", "Supabase", "SQLite", "Hive", "Git & GitHub", "REST API"]
 };
 
