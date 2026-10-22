@@ -7,7 +7,7 @@ export const SKILLS: Skills = {
 
 
 export const SKILL_GROUPS: SkillGroup[] = [
-  { label: "Languages", items: ["TypeScript", "JavaScript", "PHP", "Python", "Java", "C++"] },
+  { label: "Languages", items: ["TypeScript", "JavaScript", "PHP"] },
   { label: "Mobile", items: ["Flutter", "Dart", "Kotlin"] },
   { label: "Web & backend", items: ["Laravel", "Blade", "Next.js", "React", "Tailwind CSS"] },
   { label: "Data", items: ["Firebase", "Supabase", "SQLite", "Hive"] },
