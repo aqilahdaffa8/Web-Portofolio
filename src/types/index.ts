@@ -23,7 +23,7 @@ export interface Project {
   title: string;
   subtitle: string;
   role?: string;
-  category: "mobile" | "web";
+  category: "mobile" | "web" | "game";
   description: string;
   highlights: string[];
   tech: string[];

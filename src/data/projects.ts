@@ -139,7 +139,7 @@ export const PROJECTS: Project[] = [
     title: "Stickman Arena — 2D Combat Platformer",
     subtitle: "Fast-Paced 2D Arena Shooter & Wave Survival Game",
     role: "Game Developer & Frontend Engineer",
-    category: "web",
+    category: "game",
     description:
       "Game 2D action yang dilengkapi custom 2D physics engine, sistem parkour dan jump pad bertingkat, animasi karakter prosedural, mekanika tembak-menembak proyektil balistik, serta gelombang musuh adaptif berbasis state machine.",
     highlights: [

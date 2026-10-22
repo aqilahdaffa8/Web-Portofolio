@@ -33,8 +33,8 @@ export function Marquee() {
       className="marquee space-y-3 overflow-hidden border-y border-white/10 py-8"
       aria-label={`Tech stack: ${[...SKILLS.programming, ...SKILLS.framework].join(", ")}`}
     >
-      <Row items={SKILLS.programming} seconds={30} />
-      <Row items={SKILLS.framework} seconds={36} reverse />
+      <Row items={SKILLS.programming} seconds={23} />
+      <Row items={SKILLS.framework} seconds={23} reverse />
     </div>
   );
 }
